@@ -1,7 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+![MasterHead](https://giffiles.alphacoders.com/214/214671.gif)
 <h1 align="center">Hi 👋, I'm PR!nce</h1>
 <h3 align="center">A passionate Programmer + Coder from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cyberclays.tumblr.com/post/138883815017/ironman-gif-fan-art-by-dave-seguin">
+<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4aece0fb7108e94c8fdedf9d3a79d0fb">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maihoonprince&label=Profile%20views&color=0e75b6&style=flat" alt="maihoonprince" /> </p>
 
