@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maihoonprince&label=Profile%20views&color=0e75b6&style=flat" alt="maihoonprince" /> </p>
 
-<img  display="flex" align="right" alt="coding" width="400" src="https://68.media.tumblr.com/778bb1142998babb6b89b4e6167d1876/tumblr_o26nd4fgDB1scdgzzo1_500.gif">
+<img  display="flex" align="right" alt="coding" width="400" src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-33.gif">
 
 - 🌱 I’m currently learning **Full Stack Development + Problem Solving**
 
