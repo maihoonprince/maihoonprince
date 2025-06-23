@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maihoonprince&label=Profile%20views&color=0e75b6&style=flat" alt="maihoonprince" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maihoonprince" alt="maihoonprince" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maihoonprince&label=Profile%20views&color=0e75b6&style=flat" alt="maihoonprince" /> </p>
-
 <img  display="flex" align="right" alt="coding" width="400" src="https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-33.gif">
 
 - 🔭 I’m currently working on **SAP , S/4 HANA, SuccessFactor...**
@@ -40,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maihoonprince&show_icons=true&locale=en" alt="maihoonprince" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maihoonprince&" alt="maihoonprince" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maihoonprince" alt="maihoonprince" /></a> </p>
