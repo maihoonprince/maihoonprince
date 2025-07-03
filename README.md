@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://stellarprince.netlify.app/](https://stellarprince.netlify.app/)
 
-- ⚡ Fun fact **"I want to die on another Celestial Body...🛸✨"**
+- ⚡ Fun fact **"I want to die on another Celestial Body...🪐🛸✨"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
